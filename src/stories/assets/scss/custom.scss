@@ -1,15 +1,9 @@
-$font-size-base: 15px;
-$font-size-root: 15px;
+$font-size-base: 0.938rem;
 $primary: #e829ad;
 $secondary: #3e3e3e;
+@import "node_modules/bootstrap/scss/bootstrap.scss";
 body {
   font-size: 15px
-}
-.btn-primary {
-  background-color: $primary;
-}
-.btn-secondary {
-  background-color: $secondary;
 }
 
 .line {

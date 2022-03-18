@@ -1,8 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './button.css';
-// import "./assets/scss/custom.scss";
-import "../../node_modules/bootstrap/scss/bootstrap.scss";
 import "./assets/scss/custom.scss";
 
 /**
