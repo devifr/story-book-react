@@ -23,3 +23,11 @@ Label.args = {
   weight: 'reguler',
   label: 'Label'
 };
+
+export const LabelAndImage = Template.bind({});
+LabelAndImage.args = {
+  type: 'dashed',
+  weight: 'reguler',
+  label: 'Label',
+  icon_style: 'bi-alarm'
+};
